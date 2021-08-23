@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:1 tvg-id="ch-1" tvg-name="kanald" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Kanal D
+https://live-01.tvjetapp.com/ch-1/live.m3u8
+#EXTINF:2 tvg-id="ch-2" tvg-name="cnntr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CNN Turk
+https://live-01.tvjetapp.com/ch-2/live.m3u8
+#EXTINF:3 tvg-id="ch-3" tvg-name="teve2" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Teve 2
+https://live-01.tvjetapp.com/ch-3/live.m3u8
+#EXTINF:4 tvg-id="ch-4" tvg-name="CH 4" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 4
+https://live-01.tvjetapp.com/ch-4/live.m3u8
+#EXTINF:5 tvg-id="ch-5" tvg-name="tv8" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",TV 8
+https://live-01.tvjetapp.com/ch-5/live.m3u8
+#EXTINF:6 tvg-id="ch-6" tvg-name="kanal7" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Kanal 7
+https://live-01.tvjetapp.com/ch-6/live.m3u8
+#EXTINF:7 tvg-id="ch-7" tvg-name="foxtr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",FOX TV
+https://live-01.tvjetapp.com/ch-7/live.m3u8
+#EXTINF:8 tvg-id="ch-8" tvg-name="startr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Star TV
+https://live-01.tvjetapp.com/ch-8/live.m3u8
+#EXTINF:9 tvg-id="ch-9" tvg-name="CH 9" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 9
+https://live-01.tvjetapp.com/ch-9/live.m3u8
+#EXTINF:10 tvg-id="ch-10" tvg-name="dmax" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",DMAX
+https://live-01.tvjetapp.com/ch-10/live.m3u8
+#EXTINF:11 tvg-id="ch-11" tvg-name="showtr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Show TV
+https://live-01.tvjetapp.com/ch-11/live.m3u8
+#EXTINF:12 tvg-id="ch-12" tvg-name="CH 12" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 12
+https://live-01.tvjetapp.com/ch-12/live.m3u8
+#EXTINF:13 tvg-id="ch-13" tvg-name="CH 13" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 13
+https://live-01.tvjetapp.com/ch-13/live.m3u8
+#EXTINF:14 tvg-id="ch-14" tvg-name="atvtr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",ATV
+https://live-01.tvjetapp.com/ch-14/live.m3u8
+#EXTINF:15 tvg-id="ch-15" tvg-name="CH 15" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 15
+https://live-01.tvjetapp.com/ch-15/live.m3u8
+#EXTINF:16 tvg-id="ch-16" tvg-name="CH 16" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 16
+https://live-01.tvjetapp.com/ch-16/live.m3u8
+#EXTINF:17 tvg-id="ch-17" tvg-name="CH 17" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 17
+https://live-01.tvjetapp.com/ch-17/live.m3u8
+#EXTINF:18 tvg-id="ch-18" tvg-name="CH 18" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 18
+https://live-01.tvjetapp.com/ch-18/live.m3u8
+#EXTINF:19 tvg-id="ch-19" tvg-name="a2" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",A2
+https://live-01.tvjetapp.com/ch-19/live.m3u8
+#EXTINF:20 tvg-id="ch-20" tvg-name="CH 20" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 20
+https://live-01.tvjetapp.com/ch-20/live.m3u8
+#EXTINF:21 tvg-id="ch-21" tvg-name="trt1" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",TRT 1
+https://live-01.tvjetapp.com/ch-21/live.m3u8
+#EXTINF:22 tvg-id="ch-22" tvg-name="CH 22" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 22
+https://live-01.tvjetapp.com/ch-22/live.m3u8
+#EXTINF:23 tvg-id="ch-23" tvg-name="CH 23" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 23
+https://live-01.tvjetapp.com/ch-23/live.m3u8
+#EXTINF:24 tvg-id="ch-24" tvg-name="trtbelgesel" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",TRT Belgesel
+https://live-01.tvjetapp.com/ch-24/live.m3u8
+#EXTINF:25 tvg-id="ch-25" tvg-name="CH 25" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 25
+https://live-01.tvjetapp.com/ch-25/live.m3u8
+#EXTINF:26 tvg-id="ch-26" tvg-name="disneytr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Disney
+https://live-01.tvjetapp.com/ch-26/live.m3u8
+#EXTINF:27 tvg-id="ch-27" tvg-name="CH 27" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 27
+https://live-01.tvjetapp.com/ch-27/live.m3u8
+#EXTINF:28 tvg-id="ch-28" tvg-name="CH 28" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 28
+https://live-01.tvjetapp.com/ch-28/live.m3u8
+#EXTINF:29 tvg-id="ch-29" tvg-name="CH 29" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 29
+https://live-01.tvjetapp.com/ch-29/live.m3u8
+#EXTINF:30 tvg-id="ch-30" tvg-name="trtcocuk" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",TRT Cocuk
+https://live-01.tvjetapp.com/ch-30/live.m3u8
+#EXTINF:31 tvg-id="ch-31" tvg-name="trtavaz" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",TRT Avaz
+https://live-01.tvjetapp.com/ch-31/live.m3u8
+#EXTINF:32 tvg-id="ch-32" tvg-name="CH 32" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 32
+https://live-01.tvjetapp.com/ch-32/live.m3u8
+#EXTINF:33 tvg-id="ch-33" tvg-name="CH 33" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 33
+https://live-01.tvjetapp.com/ch-33/live.m3u8
+#EXTINF:34 tvg-id="ch-34" tvg-name="CH 34" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 34
+https://live-01.tvjetapp.com/ch-34/live.m3u8
+#EXTINF:35 tvg-id="ch-35" tvg-name="cartoontr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Cartoon Network 
+https://live-01.tvjetapp.com/ch-35/live.m3u8
+#EXTINF:36 tvg-id="ch-36" tvg-name="CH 36" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 36
+https://live-01.tvjetapp.com/ch-36/live.m3u8
+#EXTINF:37 tvg-id="ch-37" tvg-name="CH 37" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 37
+https://live-01.tvjetapp.com/ch-37/live.m3u8
+#EXTINF:38 tvg-id="ch-38" tvg-name="CH 38" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 38
+https://live-01.tvjetapp.com/ch-38/live.m3u8
+#EXTINF:39 tvg-id="ch-39" tvg-name="CH 39" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 39
+https://live-01.tvjetapp.com/ch-39/live.m3u8
+#EXTINF:40 tvg-id="ch-40" tvg-name="CH 40" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 40
+https://live-01.tvjetapp.com/ch-40/live.m3u8
+#EXTINF:41 tvg-id="ch-41" tvg-name="CH 41" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 41
+https://live-01.tvjetapp.com/ch-41/live.m3u8
+#EXTINF:42 tvg-id="ch-42" tvg-name="CH 42" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 42
+https://live-01.tvjetapp.com/ch-42/live.m3u8
+#EXTINF:43 tvg-id="ch-43" tvg-name="CH 43" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 43
+https://live-01.tvjetapp.com/ch-43/live.m3u8
+#EXTINF:44 tvg-id="ch-44" tvg-name="CH 44" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 44
+https://live-01.tvjetapp.com/ch-44/live.m3u8
+#EXTINF:45 tvg-id="ch-45" tvg-name="CH 45" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 45
+https://live-01.tvjetapp.com/ch-45/live.m3u8
+#EXTINF:46 tvg-id="ch-46" tvg-name="CH 46" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 46
+https://live-01.tvjetapp.com/ch-46/live.m3u8
+#EXTINF:47 tvg-id="ch-47" tvg-name="CH 47" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 47
+https://live-01.tvjetapp.com/ch-47/live.m3u8
+#EXTINF:48 tvg-id="ch-48" tvg-name="CH 48" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 48
+https://live-01.tvjetapp.com/ch-48/live.m3u8
+#EXTINF:49 tvg-id="ch-49" tvg-name="CH 49" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 49
+https://live-01.tvjetapp.com/ch-49/live.m3u8
+#EXTINF:50 tvg-id="ch-50" tvg-name="showmax" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Show MAX
+https://live-01.tvjetapp.com/ch-50/live.m3u8
+#EXTINF:51 tvg-id="ch-51" tvg-name="CH 51" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 51
+https://live-01.tvjetapp.com/ch-51/live.m3u8
+#EXTINF:52 tvg-id="ch-52" tvg-name="CH 52" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 52
+https://live-01.tvjetapp.com/ch-52/live.m3u8
+#EXTINF:53 tvg-id="ch-53" tvg-name="CH 53" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 53
+https://live-01.tvjetapp.com/ch-53/live.m3u8
+#EXTINF:54 tvg-id="ch-54" tvg-name="CH 54" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 54
+https://live-01.tvjetapp.com/ch-54/live.m3u8
+#EXTINF:55 tvg-id="ch-55" tvg-name="CH 55" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 55
+https://live-01.tvjetapp.com/ch-55/live.m3u8
+#EXTINF:56 tvg-id="ch-56" tvg-name="CH 56" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 56
+https://live-01.tvjetapp.com/ch-56/live.m3u8
+#EXTINF:57 tvg-id="ch-57" tvg-name="CH 57" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 57
+https://live-01.tvjetapp.com/ch-57/live.m3u8
+#EXTINF:58 tvg-id="ch-58" tvg-name="CH 58" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 58
+https://live-01.tvjetapp.com/ch-58/live.m3u8
+#EXTINF:59 tvg-id="ch-59" tvg-name="CH 59" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 59
+https://live-01.tvjetapp.com/ch-59/live.m3u8
+#EXTINF:60 tvg-id="ch-60" tvg-name="CH 60" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 60
+https://live-01.tvjetapp.com/ch-60/live.m3u8
+#EXTINF:61 tvg-id="ch-61" tvg-name="CH 61" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 61
+https://live-01.tvjetapp.com/ch-61/live.m3u8
+#EXTINF:62 tvg-id="ch-62" tvg-name="CH 62" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 62
+https://live-01.tvjetapp.com/ch-62/live.m3u8
+#EXTINF:63 tvg-id="ch-63" tvg-name="CH 63" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 63
+https://live-01.tvjetapp.com/ch-63/live.m3u8
+#EXTINF:64 tvg-id="ch-64" tvg-name="CH 64" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 64
+https://live-01.tvjetapp.com/ch-64/live.m3u8
+#EXTINF:65 tvg-id="ch-65" tvg-name="CH 65" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 65
+https://live-01.tvjetapp.com/ch-65/live.m3u8
+#EXTINF:66 tvg-id="ch-66" tvg-name="CH 66" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 66
+https://live-01.tvjetapp.com/ch-66/live.m3u8
+#EXTINF:67 tvg-id="ch-67" tvg-name="diyanettv" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Diyanet TV
+https://live-01.tvjetapp.com/ch-67/live.m3u8
+#EXTINF:68 tvg-id="ch-68" tvg-name="trt2" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",TRT 2
+https://live-01.tvjetapp.com/ch-68/live.m3u8
+#EXTINF:69 tvg-id="ch-69" tvg-name="CH 69" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 69
+https://live-01.tvjetapp.com/ch-69/live.m3u8
+#EXTINF:70 tvg-id="ch-70" tvg-name="CH 70" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 70
+https://live-01.tvjetapp.com/ch-70/live.m3u8
+#EXTINF:71 tvg-id="ch-71" tvg-name="CH 71" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 71
+https://live-01.tvjetapp.com/ch-71/live.m3u8
+#EXTINF:72 tvg-id="ch-72" tvg-name="CH 72" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 72
+https://live-01.tvjetapp.com/ch-72/live.m3u8
+#EXTINF:73 tvg-id="ch-73" tvg-name="CH 73" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 73
+https://live-01.tvjetapp.com/ch-73/live.m3u8
+#EXTINF:74 tvg-id="ch-74" tvg-name="CH 74" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 74
+https://live-01.tvjetapp.com/ch-74/live.m3u8
+#EXTINF:75 tvg-id="ch-75" tvg-name="CH 75" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 75
+https://live-01.tvjetapp.com/ch-75/live.m3u8
+#EXTINF:76 tvg-id="ch-76" tvg-name="CH 76" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 76
+https://live-01.tvjetapp.com/ch-76/live.m3u8
+#EXTINF:77 tvg-id="ch-77" tvg-name="CH 77" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 77
+https://live-01.tvjetapp.com/ch-77/live.m3u8
+#EXTINF:78 tvg-id="ch-78" tvg-name="CH 78" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 78
+https://live-01.tvjetapp.com/ch-78/live.m3u8
+#EXTINF:79 tvg-id="ch-79" tvg-name="CH 79" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 79
+https://live-01.tvjetapp.com/ch-79/live.m3u8
+#EXTINF:80 tvg-id="ch-80" tvg-name="CH 80" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 80
+https://live-01.tvjetapp.com/ch-80/live.m3u8
+#EXTINF:81 tvg-id="ch-81" tvg-name="CH 81" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 81
+https://live-01.tvjetapp.com/ch-81/live.m3u8
+#EXTINF:82 tvg-id="ch-82" tvg-name="CH 82" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 82
+https://live-01.tvjetapp.com/ch-82/live.m3u8
+#EXTINF:83 tvg-id="ch-83" tvg-name="CH 83" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 83
+https://live-01.tvjetapp.com/ch-83/live.m3u8
+#EXTINF:84 tvg-id="ch-84" tvg-name="CH 84" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 84
+https://live-01.tvjetapp.com/ch-84/live.m3u8
+#EXTINF:85 tvg-id="ch-85" tvg-name="CH 85" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 85
+https://live-01.tvjetapp.com/ch-85/live.m3u8
+#EXTINF:86 tvg-id="ch-86" tvg-name="CH 86" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 86
+https://live-01.tvjetapp.com/ch-86/live.m3u8
+#EXTINF:87 tvg-id="ch-87" tvg-name="CH 87" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 87
+https://live-01.tvjetapp.com/ch-87/live.m3u8
+#EXTINF:88 tvg-id="ch-88" tvg-name="CH 88" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 88
+https://live-01.tvjetapp.com/ch-88/live.m3u8
+#EXTINF:89 tvg-id="ch-89" tvg-name="CH 89" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 89
+https://live-01.tvjetapp.com/ch-89/live.m3u8
+#EXTINF:90 tvg-id="ch-90" tvg-name="CH 90" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 90
+https://live-01.tvjetapp.com/ch-90/live.m3u8
+#EXTINF:91 tvg-id="ch-91" tvg-name="rehbertv" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",Rehber TV
+https://live-01.tvjetapp.com/ch-91/live.m3u8
+#EXTINF:92 tvg-id="ch-92" tvg-name="CH 92" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 92
+https://live-01.tvjetapp.com/ch-92/live.m3u8
+#EXTINF:93 tvg-id="ch-93" tvg-name="CH 93" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 93
+https://live-01.tvjetapp.com/ch-93/live.m3u8
+#EXTINF:94 tvg-id="ch-94" tvg-name="CH 94" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 94
+https://live-01.tvjetapp.com/ch-94/live.m3u8
+#EXTINF:95 tvg-id="ch-95" tvg-name="CH 95" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 95
+https://live-01.tvjetapp.com/ch-95/live.m3u8
+#EXTINF:96 tvg-id="ch-96" tvg-name="CH 96" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 96
+https://live-01.tvjetapp.com/ch-96/live.m3u8
+#EXTINF:97 tvg-id="ch-97" tvg-name="CH 97" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 97
+https://live-01.tvjetapp.com/ch-97/live.m3u8
+#EXTINF:98 tvg-id="ch-98" tvg-name="CH 98" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 98
+https://live-01.tvjetapp.com/ch-98/live.m3u8
+#EXTINF:99 tvg-id="ch-99" tvg-name="CH 99" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 99
+https://live-01.tvjetapp.com/ch-99/live.m3u8
+#EXTINF:100 tvg-id="ch-100" tvg-name="CH 100" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 100
+https://live-01.tvjetapp.com/ch-100/live.m3u8
+#EXTINF:101 tvg-id="ch-101" tvg-name="CH 101" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 101
+https://live-01.tvjetapp.com/ch-101/live.m3u8
+#EXTINF:102 tvg-id="ch-102" tvg-name="CH 102" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 102
+https://live-01.tvjetapp.com/ch-102/live.m3u8
+#EXTINF:103 tvg-id="ch-103" tvg-name="CH 103" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 103
+https://live-01.tvjetapp.com/ch-103/live.m3u8
+#EXTINF:104 tvg-id="ch-104" tvg-name="CH 104" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 104
+https://live-01.tvjetapp.com/ch-104/live.m3u8
+#EXTINF:105 tvg-id="ch-105" tvg-name="CH 105" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 105
+https://live-01.tvjetapp.com/ch-105/live.m3u8
+#EXTINF:106 tvg-id="ch-106" tvg-name="CH 106" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 106
+https://live-01.tvjetapp.com/ch-106/live.m3u8
+#EXTINF:107 tvg-id="ch-107" tvg-name="CH 107" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="All",CH 107
+https://live-01.tvjetapp.com/ch-107/live.m3u8
